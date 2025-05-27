@@ -1,3 +1,3 @@
-const myVar= "C is fun" br "Python is cool" br "JavaScript is amazing" br "
+const myVar="JavaScript is amazing"
 
 console.log (myVar)
